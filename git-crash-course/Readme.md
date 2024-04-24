@@ -210,3 +210,15 @@ When we want to push a repo to our remote origin
 ```
 git push
 ```
+
+## Gitconfig file
+
+gitconfig --list
+
+## git log
+
+git log will show recent git commit to the git tree
+
+## Push
+
+when we want to push repo to remote origin
